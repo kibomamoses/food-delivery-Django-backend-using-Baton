@@ -1,6 +1,4 @@
 # Food Delivery
-
-# About
 Food Delivery contains only professional and reliable software technologies like Python Django, Django REST framework and JWT social authentication. Now you can forget about specifically and expensive website templates and hard to fix SQL errors! Furthermore, Food Delivery provide localization and internationalization features.
 
 # Easy restaurant management setup
