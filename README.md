@@ -31,6 +31,10 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
+## Screenshots
+![kbm food delivery](https://github.com/kibomamoses/food-delivery-Django-backend-using-Baton/blob/master/2021-11-13%20(4).png)
+![kbm food delivery](https://github.com/kibomamoses/food-delivery-Django-backend-using-Baton/blob/master/2021-11-13%20(3).png)
+![kbm food delivery](https://github.com/kibomamoses/food-delivery-Django-backend-using-Baton/blob/master/2021-11-13%20(2).png)
 
 # Requirements
 Regular Meal CMS project has been written with the Python Django framework.
