@@ -1,0 +1,110 @@
+[
+  {
+    "model": "menu.ingredient",
+    "pk": 1,
+    "fields": {
+      "title": "Авокадо",
+      "slug": "avokado"
+    }
+  }, {
+    "model": "menu.ingredient",
+    "pk": 2,
+    "fields": {
+      "title": "Вяленые помидоры",
+      "slug": "vialenye-pomidory"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 3,
+    "fields": {
+      "title": "Лимонный сок",
+      "slug": "limonnyi-sok"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 4,
+    "fields": {
+      "title": "Молотый сушеный чеснок",
+      "slug": "molotyi-sushenyi-chesnok"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 5,
+    "fields": {
+      "title": "Ржаной хлеб",
+      "slug": "rzhanoi-khleb"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 6,
+    "fields": {
+      "title": "Перепелиное яйцо",
+      "slug": "perepelinoe-iaitso"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 7,
+    "fields": {
+      "title": "Редис",
+      "slug": "redis"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 8,
+    "fields": {
+      "title": "Черные кунжутные семечки",
+      "slug": "chernye-kunzhutnye-semechki"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 9,
+    "fields": {
+      "title": "Соль",
+      "slug": "sol"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 10,
+    "fields": {
+      "title": "Черный перец",
+      "slug": "chernyi-perets"
+    }
+  }, {
+    "model": "menu.ingredient",
+    "pk": 11,
+    "fields": {
+      "title": "Оливковое масло",
+      "slug": "olivkovoe-maslo"
+    }
+  }, {
+    "model": "menu.dish",
+    "pk": 1,
+    "fields": {
+      "title": "Супертост с авокадо",
+      "calories": 713,
+      "meal_of_the_day": 2,
+      "slug": "supertost-s-avokado",
+      "ingredients": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  }
+]

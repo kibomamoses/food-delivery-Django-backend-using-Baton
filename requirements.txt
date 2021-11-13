@@ -1,0 +1,14 @@
+django
+pillow
+unidecode
+coverage
+django-baton
+django-admin-numeric-filter
+django-imagekit
+model_mommy
+djangorestframework
+markdown
+django-filter
+djoser
+social-auth-app-django
+django-modeltranslation
